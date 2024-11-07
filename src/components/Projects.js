@@ -11,19 +11,22 @@ export const Projects = () => {
 
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Microservice for Android App",
+      description: "Microservice Android App für einen Nahrungsmitteltracker.",
       imgUrl: projImg1,
+      url: "https://github.com/lukas-bhnk/microservice-software-engineering"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Cloud Resume Challenge",
+      description: "Diese Resume Seite wurde im Rahmen der Azure Cloud Resume Challenge gemacht.",
       imgUrl: projImg2,
+      url: "https://github.com/lukas-bhnk/cloud-resume-challenge-full"
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Piggy Bank",
+      description: "Full-Responsive Web-Application zum Tracken von seinen monatlichen Einnahmen und Ausgaben.",
       imgUrl: projImg3,
+      url: "https://github.com/lukas-bhnk/webengineering"
     },
     {
       title: "Business Startup",
